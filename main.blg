@@ -4,6 +4,24 @@ The top-level auxiliary file: main.aux
 The style file: kueethesis.bst
 I found no \citation commands---while reading file main.aux
 Database file #1: main.bib
+You're missing a field name---line 7 of file main.bib
+ : 
+ : % author = "鈴木洋，鈴木健二郎，井上義章，萩原良道",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `)'---line 39 of file main.bib
+ :  title = ｛THE 
+ :                INDIVIDUAL PSYCHOLOGY OF ALFRED ADLER},
+I'm skipping whatever remains of this entry
+You're missing a field name---line 79 of file main.bib
+ : 
+ : % author = "樋口耕一",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+"}" immediately follows a field part---line 109 of file main.bib
+ :  title = ｛心理学大辞典
+ :                        },
+I'm skipping whatever remains of this entry
 You've used 0 entries,
             2383 wiz_defined-function locations,
             555 strings with 3840 characters,
@@ -46,4 +64,4 @@ while$ -- 0
 width$ -- 0
 write$ -- 2
 is.kanji.str$ -- 0
-(There was 1 error message)
+(There were 5 error messages)
