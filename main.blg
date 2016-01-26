@@ -4,46 +4,48 @@ The top-level auxiliary file: main.aux
 The style file: kueethesis.bst
 Database file #1: main.bib
 Warning--I didn't find a database entry for "ad"
-You've used 2 entries,
+Warning--I didn't find a database entry for "kh"
+Warning--empty journal in shou
+You've used 4 entries,
             2383 wiz_defined-function locations,
-            568 strings with 4062 characters,
-and the built_in function-call counts, 598 in all, are:
-= -- 54
-> -- 8
-< -- 3
-+ -- 4
-- -- 2
-* -- 26
-:= -- 76
-add.period$ -- 2
-call.type$ -- 2
-change.case$ -- 1
+            581 strings with 4290 characters,
+and the built_in function-call counts, 1299 in all, are:
+= -- 124
+> -- 19
+< -- 7
++ -- 9
+- -- 5
+* -- 62
+:= -- 157
+add.period$ -- 4
+call.type$ -- 4
+change.case$ -- 3
 chr.to.int$ -- 0
-cite$ -- 2
-duplicate$ -- 43
-empty$ -- 58
-format.name$ -- 4
-if$ -- 150
+cite$ -- 5
+duplicate$ -- 88
+empty$ -- 120
+format.name$ -- 10
+if$ -- 331
 int.to.chr$ -- 0
-int.to.str$ -- 2
-missing$ -- 3
-newline$ -- 9
-num.names$ -- 2
-pop$ -- 17
+int.to.str$ -- 4
+missing$ -- 5
+newline$ -- 15
+num.names$ -- 4
+pop$ -- 30
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 37
+skip$ -- 83
 stack$ -- 0
-substring$ -- 28
-swap$ -- 12
-text.length$ -- 3
+substring$ -- 74
+swap$ -- 29
+text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 0
-while$ -- 4
-width$ -- 3
-write$ -- 24
-is.kanji.str$ -- 18
-(There was 1 warning)
+warning$ -- 1
+while$ -- 10
+width$ -- 5
+write$ -- 46
+is.kanji.str$ -- 37
+(There were 3 warnings)
