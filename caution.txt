@@ -1,0 +1,6 @@
+文字コードはeucjp
+
+（main.texのdvipdfmをdvipdfmxに）
+
+referencesはmain.bibをイジる
+
