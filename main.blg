@@ -11,46 +11,47 @@ Warning--empty journal in txt2
 Warning--empty journal in txt3
 Warning--empty journal in txt4
 Warning--empty journal in txt5
-You've used 13 entries,
+Warning--empty journal in kuromojijs
+You've used 15 entries,
             2383 wiz_defined-function locations,
-            612 strings with 5095 characters,
-and the built_in function-call counts, 3196 in all, are:
-= -- 293
-> -- 55
-< -- 10
-+ -- 27
-- -- 14
-* -- 116
-:= -- 404
-add.period$ -- 13
-call.type$ -- 13
-change.case$ -- 11
+            621 strings with 5346 characters,
+and the built_in function-call counts, 3952 in all, are:
+= -- 381
+> -- 63
+< -- 11
++ -- 31
+- -- 16
+* -- 129
+:= -- 476
+add.period$ -- 15
+call.type$ -- 15
+change.case$ -- 13
 chr.to.int$ -- 0
-cite$ -- 21
-duplicate$ -- 232
-empty$ -- 317
-format.name$ -- 28
-if$ -- 803
+cite$ -- 24
+duplicate$ -- 298
+empty$ -- 376
+format.name$ -- 32
+if$ -- 1009
 int.to.chr$ -- 0
-int.to.str$ -- 13
-missing$ -- 15
-newline$ -- 42
-num.names$ -- 13
-pop$ -- 116
+int.to.str$ -- 15
+missing$ -- 17
+newline$ -- 48
+num.names$ -- 15
+pop$ -- 131
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 207
+skip$ -- 288
 stack$ -- 0
-substring$ -- 98
-swap$ -- 42
-text.length$ -- 10
+substring$ -- 134
+swap$ -- 80
+text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 8
-while$ -- 22
-width$ -- 15
-write$ -- 133
-is.kanji.str$ -- 104
-(There were 8 warnings)
+warning$ -- 9
+while$ -- 25
+width$ -- 17
+write$ -- 153
+is.kanji.str$ -- 119
+(There were 9 warnings)

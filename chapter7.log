@@ -1,9 +1,9 @@
-This is e-pTeX, Version 3.14159265-p3.7-150805-2.6 (utf8.sjis) (TeX Live 2015/W32TeX) (preloaded format=platex 2015.11.21)  5 FEB 2016 18:40
+This is e-pTeX, Version 3.14159265-p3.7-150805-2.6 (utf8.sjis) (TeX Live 2015/W32TeX) (preloaded format=platex 2015.11.21)  5 FEB 2016 18:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./chapter1.tex
-(./chapter1.tex
+**./chapter7.tex
+(./chapter7.tex
 pLaTeX2e <2006/11/10> (based on LaTeX2e <2015/10/01> patch level 2)
 Babel <3.9m> and hyphenation patterns for 79 languages loaded.
 
@@ -13,16 +13,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 心
-      療において，カウンセラーは心身症やストレスからくる身体症状をもつ患者な...
-
+l.3 2
+     016年1月の「心の可視化研究会」では，12名の専門家に本システムのプロトタ...
 ? 
 ! Emergency stop.
  ...                                              
                                                   
-l.3 心
-      療において，カウンセラーは心身症やストレスからくる身体症状をもつ患者な...
-
+l.3 2
+     016年1月の「心の可視化研究会」では，12名の専門家に本システムのプロトタ...
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -34,5 +32,5 @@ Here is how much of TeX's memory you used:
  3634 multiletter control sequences out of 15000+600000
  7511 words of font info for 31 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 5i,0n,4p,145b,14s stack positions out of 5000i,500n,10000p,500000b,80000s
+ 5i,0n,4p,506b,14s stack positions out of 5000i,500n,10000p,500000b,80000s
 No pages of output.
