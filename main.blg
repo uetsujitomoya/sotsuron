@@ -3,45 +3,46 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 The style file: kueethesis.bst
 Database file #1: main.bib
+Warning--I didn't find a database entry for "sen1"
+Warning--I didn't find a database entry for "txt4"
+Warning--I didn't find a database entry for "txt5"
+Warning--I didn't find a database entry for "txt1"
+Warning--I didn't find a database entry for "txt2"
+Warning--I didn't find a database entry for "txt3"
 Warning--empty journal in manu
 Warning--there's a number but no volume in voistrap
 Warning--empty journal in shou
-Warning--empty journal in txt1
-Warning--empty journal in txt2
-Warning--empty journal in txt3
-Warning--empty journal in txt4
-Warning--empty journal in txt5
 Warning--empty journal in kuromojijs
-You've used 15 entries,
+You've used 10 entries,
             2383 wiz_defined-function locations,
-            621 strings with 5346 characters,
-and the built_in function-call counts, 3952 in all, are:
-= -- 381
-> -- 63
+            612 strings with 5009 characters,
+and the built_in function-call counts, 3022 in all, are:
+= -- 301
+> -- 43
 < -- 11
-+ -- 31
-- -- 16
-* -- 129
-:= -- 476
-add.period$ -- 15
-call.type$ -- 15
-change.case$ -- 13
++ -- 21
+- -- 11
+* -- 104
+:= -- 351
+add.period$ -- 10
+call.type$ -- 10
+change.case$ -- 8
 chr.to.int$ -- 0
-cite$ -- 24
-duplicate$ -- 298
-empty$ -- 376
-format.name$ -- 32
-if$ -- 1009
+cite$ -- 14
+duplicate$ -- 228
+empty$ -- 276
+format.name$ -- 22
+if$ -- 784
 int.to.chr$ -- 0
-int.to.str$ -- 15
-missing$ -- 17
-newline$ -- 48
-num.names$ -- 15
-pop$ -- 131
+int.to.str$ -- 10
+missing$ -- 12
+newline$ -- 33
+num.names$ -- 10
+pop$ -- 81
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 288
+skip$ -- 228
 stack$ -- 0
 substring$ -- 134
 swap$ -- 80
@@ -49,9 +50,9 @@ text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 9
-while$ -- 25
-width$ -- 17
-write$ -- 153
-is.kanji.str$ -- 119
-(There were 9 warnings)
+warning$ -- 4
+while$ -- 20
+width$ -- 12
+write$ -- 108
+is.kanji.str$ -- 84
+(There were 10 warnings)

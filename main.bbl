@@ -14,7 +14,7 @@
 樋口耕一, Kh coder 2.x リファレンス・マニュアル, (2015).
 
 \bibitem{voistrap}
-下谷 啓~ほか原田~陽雄, コミュニケーション可視化技術「voistrap^^c2^^ae」,
+原田陽雄下谷啓ほか, コミュニケーション可視化技術「voistrap^^c2^^ae」,
   富士ゼロックス テクニカルレポート, No.~22, (2013), pp. 86--95.
 
 \bibitem{shou}
@@ -33,26 +33,6 @@ Eric Alexander and Michael Gleicher, Task-driven comparison of topic models,
 \bibitem{ad2}
 ROWENA R.~ANSBACHER HEINZ L.~ANSBACHER, {\em THE INDIVIDUAL PSYCHOLOGY OF
   ALFRED ADLER\/}, (New York : Haper, Row, Publishers, Inc., 1956).
-
-\bibitem{txt1}
-第11回ヨーガ療法事例検討会, 心療内科における摂食障害専門ヨーガ療法グループ
-  続報, (2014).
-
-\bibitem{txt2}
-2015.1.24事例検討会, 心療内科における摂食障害専門ヨーガ療法グループ 続報その２,
-  (2015).
-
-\bibitem{txt3}
-2015.3.28事例検討会, 心療内科における摂食障害専門ヨーガ療法グループ 続報その３,
-  (2015).
-
-\bibitem{txt4}
-心療内科における摂食障害専門ヨーガ療法グループ, 2015年10月17日事例検討会用資料,
-  (2015).
-
-\bibitem{txt5}
-心療内科における摂食障害専門ヨーガ療法グループ, 2015年11月28日事例検討会用資料,
-  (2015).
 
 \bibitem{kuromojijs}
 Takuya Asano, kuromoji.js, \url{https://github.com/takuyaa/kuromoji.js},
