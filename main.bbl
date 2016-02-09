@@ -5,7 +5,7 @@
   理論と方法, Vol.~19, No.~1, (2004), pp. 101--115.
 
 \bibitem{kango}
-杉浦暁代新美綾子,
+杉浦暁代, 新美綾子,
   プロジェクト学習を用いた成人看護学概論の学習により学生が認識した学びと成長
   ―テキストマイニングによる分析―, 第44 回日本看護学会 看護教育
   学術集会抄録集, (2013), p.~60.
@@ -14,8 +14,9 @@
 樋口耕一, Kh coder 2.x リファレンス・マニュアル, (2015).
 
 \bibitem{voistrap}
-原田陽雄下谷啓ほか, コミュニケーション可視化技術「voistrap^^c2^^ae」,
-  富士ゼロックス テクニカルレポート, No.~22, (2013), pp. 86--95.
+原田陽雄, 米山博人, 下谷啓ほか,
+  コミュニケーション可視化技術「voistrap^^c2^^ae」, 富士ゼロックス
+  テクニカルレポート, No.~22, (2013), pp. 86--95.
 
 \bibitem{shou}
 庄^^e7^^86^^87亮, Webカウンセリングシステムの開発および心理データの可視化,
@@ -26,17 +27,26 @@ Eric Alexander and Michael Gleicher, Task-driven comparison of topic models,
   {\em IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS\/}, Vol.~22,
   No.~1, (2016), pp. 320--329.
 
+\bibitem{itoh2010interactive}
+Masahiko Itoh, Masashi Toyoda, and Masaru Kitsuregawa, An interactive
+  visualization framework for time-series of web graphs in a 3d environment,
+  {\em Information Visualisation (IV), 2010 14th International Conference\/},
+  (IEEE, 2010), pp. 54--60.
+
 \bibitem{zokad}
 野田俊作, 続アドラー心理学トーキングセミナー勇気づけの家族コミュニケーション,
   (アニマ2001, 1991).
 
 \bibitem{ad2}
-ROWENA R.~ANSBACHER HEINZ L.~ANSBACHER, {\em THE INDIVIDUAL PSYCHOLOGY OF
+HEINZ~L. ANSBACHER, ROWENA~R. ANSBACHER, {\em THE INDIVIDUAL PSYCHOLOGY OF
   ALFRED ADLER\/}, (New York : Haper, Row, Publishers, Inc., 1956).
 
 \bibitem{kuromojijs}
 Takuya Asano, kuromoji.js, \url{https://github.com/takuyaa/kuromoji.js},
   (2015).
+
+\bibitem{bostock2012d3}
+Michael Bostock, D3. js, {\em Data Driven Documents\/}, (2012).
 
 \bibitem{attrakdiff}
 M.~Hassenzahl, Hedonic, emotional and experiential perspectives on product

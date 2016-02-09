@@ -3,56 +3,50 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 The style file: kueethesis.bst
 Database file #1: main.bib
-Warning--I didn't find a database entry for "sen1"
-Warning--I didn't find a database entry for "txt4"
-Warning--I didn't find a database entry for "txt5"
-Warning--I didn't find a database entry for "txt1"
-Warning--I didn't find a database entry for "txt2"
-Warning--I didn't find a database entry for "txt3"
 Warning--empty journal in manu
 Warning--there's a number but no volume in voistrap
 Warning--empty journal in shou
 Warning--empty journal in kuromojijs
-You've used 10 entries,
+You've used 12 entries,
             2383 wiz_defined-function locations,
-            612 strings with 5009 characters,
-and the built_in function-call counts, 3022 in all, are:
-= -- 301
-> -- 43
-< -- 11
-+ -- 21
-- -- 11
-* -- 104
-:= -- 351
-add.period$ -- 10
-call.type$ -- 10
-change.case$ -- 8
+            618 strings with 5290 characters,
+and the built_in function-call counts, 3687 in all, are:
+= -- 360
+> -- 69
+< -- 12
++ -- 31
+- -- 19
+* -- 136
+:= -- 435
+add.period$ -- 12
+call.type$ -- 12
+change.case$ -- 10
 chr.to.int$ -- 0
-cite$ -- 14
-duplicate$ -- 228
-empty$ -- 276
-format.name$ -- 22
-if$ -- 784
+cite$ -- 16
+duplicate$ -- 270
+empty$ -- 334
+format.name$ -- 38
+if$ -- 951
 int.to.chr$ -- 0
-int.to.str$ -- 10
-missing$ -- 12
-newline$ -- 33
-num.names$ -- 10
-pop$ -- 81
+int.to.str$ -- 12
+missing$ -- 14
+newline$ -- 39
+num.names$ -- 12
+pop$ -- 96
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 228
+skip$ -- 266
 stack$ -- 0
-substring$ -- 134
-swap$ -- 80
-text.length$ -- 11
+substring$ -- 158
+swap$ -- 89
+text.length$ -- 12
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 4
-while$ -- 20
-width$ -- 12
-write$ -- 108
-is.kanji.str$ -- 84
-(There were 10 warnings)
+while$ -- 25
+width$ -- 14
+write$ -- 130
+is.kanji.str$ -- 110
+(There were 4 warnings)
