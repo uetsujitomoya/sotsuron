@@ -6,52 +6,47 @@ Database file #1: main.bib
 Warning--empty journal in manu
 Warning--there's a number but no volume in voistrap
 Warning--empty journal in shou
-Name 1 in "I. Masahiko, T. Masashi, and K. Masaru" has a comma at the end for entry itoh2010interactive
-while executing---line 1098 of file kueethesis.bst
-Name 1 in "I. Masahiko, T. Masashi, and K. Masaru" has a comma at the end for entry itoh2010interactive
-while executing---line 1098 of file kueethesis.bst
-Warning--empty journal in itoh2010interactive
 Warning--empty journal in kuromojijs
 You've used 12 entries,
             2383 wiz_defined-function locations,
-            616 strings with 5222 characters,
-and the built_in function-call counts, 3315 in all, are:
-= -- 311
-> -- 66
+            616 strings with 5225 characters,
+and the built_in function-call counts, 3335 in all, are:
+= -- 312
+> -- 69
 < -- 11
-+ -- 30
-- -- 18
-* -- 132
-:= -- 413
++ -- 31
+- -- 19
+* -- 134
+:= -- 417
 add.period$ -- 12
 call.type$ -- 12
 change.case$ -- 10
 chr.to.int$ -- 0
-cite$ -- 17
-duplicate$ -- 231
+cite$ -- 16
+duplicate$ -- 232
 empty$ -- 311
-format.name$ -- 36
-if$ -- 839
+format.name$ -- 38
+if$ -- 844
 int.to.chr$ -- 0
 int.to.str$ -- 12
 missing$ -- 14
 newline$ -- 39
 num.names$ -- 12
-pop$ -- 94
+pop$ -- 92
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
 skip$ -- 218
 stack$ -- 0
 substring$ -- 132
-swap$ -- 55
+swap$ -- 56
 text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 5
+warning$ -- 4
 while$ -- 24
 width$ -- 14
-write$ -- 127
-is.kanji.str$ -- 108
-(There were 2 error messages)
+write$ -- 128
+is.kanji.str$ -- 110
+(There were 4 warnings)
