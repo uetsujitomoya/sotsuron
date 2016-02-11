@@ -7,36 +7,37 @@ Warning--empty journal in manu
 Warning--there's a number but no volume in voistrap
 Warning--empty journal in shou
 Warning--empty journal in kuromojijs
-You've used 12 entries,
+Warning--empty journal in kuromoji
+You've used 13 entries,
             2383 wiz_defined-function locations,
-            616 strings with 5225 characters,
-and the built_in function-call counts, 3335 in all, are:
-= -- 312
-> -- 69
+            619 strings with 5301 characters,
+and the built_in function-call counts, 3521 in all, are:
+= -- 328
+> -- 73
 < -- 11
-+ -- 31
-- -- 19
-* -- 134
-:= -- 417
-add.period$ -- 12
-call.type$ -- 12
-change.case$ -- 10
++ -- 33
+- -- 20
+* -- 139
+:= -- 442
+add.period$ -- 13
+call.type$ -- 13
+change.case$ -- 11
 chr.to.int$ -- 0
-cite$ -- 16
-duplicate$ -- 232
-empty$ -- 311
-format.name$ -- 38
-if$ -- 844
+cite$ -- 18
+duplicate$ -- 246
+empty$ -- 331
+format.name$ -- 40
+if$ -- 889
 int.to.chr$ -- 0
-int.to.str$ -- 12
-missing$ -- 14
-newline$ -- 39
-num.names$ -- 12
-pop$ -- 92
+int.to.str$ -- 13
+missing$ -- 15
+newline$ -- 42
+num.names$ -- 13
+pop$ -- 101
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 218
+skip$ -- 231
 stack$ -- 0
 substring$ -- 132
 swap$ -- 56
@@ -44,9 +45,9 @@ text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 4
-while$ -- 24
-width$ -- 14
-write$ -- 128
-is.kanji.str$ -- 110
-(There were 4 warnings)
+warning$ -- 5
+while$ -- 25
+width$ -- 15
+write$ -- 137
+is.kanji.str$ -- 117
+(There were 5 warnings)
