@@ -1,11 +1,11 @@
-This is e-pTeX, Version 3.14159265-p3.7-150805-2.6 (utf8.sjis) (TeX Live 2015/W32TeX) (preloaded format=platex 2016.1.10)  10 FEB 2016 23:41
+This is e-pTeX, Version 3.14159265-p3.7-150805-2.6 (utf8.sjis) (TeX Live 2015/W32TeX) (preloaded format=platex 2015.11.21)  11 FEB 2016 23:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./chapter6.tex
 (./chapter6.tex
 pLaTeX2e <2006/11/10> (based on LaTeX2e <2015/10/01> patch level 2)
-Babel <3.9n> and hyphenation patterns for 79 languages loaded.
+Babel <3.9m> and hyphenation patterns for 79 languages loaded.
 
 ! LaTeX Error: Missing \begin{document}.
 
@@ -14,25 +14,23 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 本
-      章ではユーザーによる，前章で述べた提案システムに対するの評価について述...
-
+      章では前章で述べた提案システムに対する評価について述べる．
 ? 
 ! Emergency stop.
  ...                                              
                                                   
 l.1 本
-      章ではユーザーによる，前章で述べた提案システムに対するの評価について述...
-
+      章では前章で述べた提案システムに対する評価について述べる．
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
  
 Here is how much of TeX's memory you used:
  6 strings out of 493734
- 189 string characters out of 6152927
+ 189 string characters out of 6152926
  53606 words of memory out of 5000000
  3634 multiletter control sequences out of 15000+600000
  7511 words of font info for 31 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 5i,0n,4p,95b,14s stack positions out of 5000i,500n,10000p,500000b,80000s
+ 5i,0n,4p,77b,14s stack positions out of 5000i,500n,10000p,500000b,80000s
 No pages of output.
