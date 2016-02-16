@@ -9,44 +9,44 @@ Warning--empty journal in kuromojijs
 Warning--empty journal in kuromoji
 You've used 14 entries,
             2383 wiz_defined-function locations,
-            625 strings with 5431 characters,
-and the built_in function-call counts, 3711 in all, are:
-= -- 346
+            627 strings with 5419 characters,
+and the built_in function-call counts, 3734 in all, are:
+= -- 347
 > -- 77
-< -- 11
+< -- 13
 + -- 35
 - -- 21
-* -- 140
-:= -- 469
+* -- 146
+:= -- 470
 add.period$ -- 14
 call.type$ -- 14
 change.case$ -- 12
 chr.to.int$ -- 0
 cite$ -- 18
-duplicate$ -- 262
+duplicate$ -- 264
 empty$ -- 351
 format.name$ -- 42
-if$ -- 938
+if$ -- 943
 int.to.chr$ -- 0
 int.to.str$ -- 14
 missing$ -- 16
 newline$ -- 45
 num.names$ -- 14
-pop$ -- 107
+pop$ -- 106
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
 skip$ -- 245
 stack$ -- 0
 substring$ -- 132
-swap$ -- 56
-text.length$ -- 11
+swap$ -- 58
+text.length$ -- 13
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 4
 while$ -- 26
 width$ -- 16
-write$ -- 148
-is.kanji.str$ -- 126
+write$ -- 149
+is.kanji.str$ -- 128
 (There were 4 warnings)
