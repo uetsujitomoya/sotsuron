@@ -5,39 +5,38 @@ The style file: kueethesis.bst
 Database file #1: main.bib
 Warning--empty journal in manu
 Warning--there's a number but no volume in voistrap
-Warning--empty journal in shou
 Warning--empty journal in kuromojijs
 Warning--empty journal in kuromoji
 You've used 13 entries,
             2383 wiz_defined-function locations,
-            619 strings with 5301 characters,
-and the built_in function-call counts, 3521 in all, are:
-= -- 328
+            620 strings with 5321 characters,
+and the built_in function-call counts, 3523 in all, are:
+= -- 329
 > -- 73
 < -- 11
 + -- 33
 - -- 20
-* -- 139
-:= -- 442
+* -- 137
+:= -- 443
 add.period$ -- 13
 call.type$ -- 13
 change.case$ -- 11
 chr.to.int$ -- 0
-cite$ -- 18
-duplicate$ -- 246
+cite$ -- 17
+duplicate$ -- 247
 empty$ -- 331
 format.name$ -- 40
-if$ -- 889
+if$ -- 891
 int.to.chr$ -- 0
 int.to.str$ -- 13
 missing$ -- 15
 newline$ -- 42
 num.names$ -- 13
-pop$ -- 101
+pop$ -- 99
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 231
+skip$ -- 232
 stack$ -- 0
 substring$ -- 132
 swap$ -- 56
@@ -45,9 +44,9 @@ text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 5
+warning$ -- 4
 while$ -- 25
 width$ -- 15
-write$ -- 137
-is.kanji.str$ -- 117
-(There were 5 warnings)
+write$ -- 138
+is.kanji.str$ -- 118
+(There were 4 warnings)

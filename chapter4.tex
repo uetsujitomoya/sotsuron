@@ -12,7 +12,7 @@
 
 
 
-まず専門家にインタビューを行い，次に述べるシステム要件を抽出した．
+まず専門家にインタビューを行い，以下に述べるシステム要件を抽出した．
 
 
 
@@ -55,18 +55,17 @@
 
 \section{システム設計と実装}
 
-前節では提案システムのユーザーである熟練治療者からのコメントをもとにした，提案システム要件抽出について説明した．本節では提案システムの設計と実装について説明する．このシステムに模擬会話データを入力した際の描画結果のスクリーンショットを図\ref{fig:6_1}に示す．本節ではその要件をみたした提案システムの設計と実装について説明する．
- \begin{figure}
-   \begin{center}
-     \includegraphics[width=\linewidth]{6_1.png}
-   \end{center}
-   \caption{提案システムの模擬会話データでの可視化結果}
-   \label{fig:6_1}
- \end{figure}本提案システムのアルゴリズムについて説明する．
+前節では提案システムのユーザーである熟練治療者からのコメントをもとにした，提案システム要件抽出について説明した．本節では提案システムの設計と実装について説明する．本節ではその要件をみたした提案システムの設計と実装について説明する．
+
+まず，本提案システムのアルゴリズムについて説明する．
 なお，本提案システムの開発言語はJavaScriptである．
 本提案システムの構成を図\ref{fig:4_2}に示す．
+また本提案システムのユースケース図を図\ref{fig:use_case_diagram}に示す．
+ユースケース図は，システムがどのように機能すべきか，およびその外部環境を表すUMLの図である．
+UMLは，主にオブジェクト指向分析や設計のための，記法の統一がはかられた（Unified）モデリング言語（Modeling Language）である．
 
- \begin{figure}
+
+\begin{figure}
    \begin{center}
      \includegraphics[width=\linewidth]{4_2.png}
    \end{center}
@@ -74,10 +73,16 @@
    \label{fig:4_2}
  \end{figure}
 
-%\subsubsection{形態素解析}
+\begin{figure}
+   \begin{center}
+     \includegraphics[width=\linewidth]{use_case_diagram.png}
+   \end{center}
+   \caption{提案システムのユースケース図}
+   \label{fig:use_case_diagram}
+ \end{figure}
 
 
-まず，グラフ描画前のテキストデータ処理について述べる．アクティビティ図を図\ref{fig:activity}に示す．アクティビティ図とはフローチャートに似た図で，いわゆるビジネスロジックにおける手続き的な流れやプログラムの制御フローを表すUMLの図である．UMLは，主にオブジェクト指向分析や設計のための，記法の統一がはかられた（Unified）モデリング言語（Modeling Language）である．
+まず，グラフ描画前のテキストデータ処理について述べる．アクティビティ図を図\ref{fig:activity}に示す．アクティビティ図とはフローチャートに似た図で，いわゆるビジネスロジックにおける手続き的な流れやプログラムの制御フローを表すUMLの図である．
 \begin{figure}
    \begin{center}
      \includegraphics[width=\linewidth]{activity.png}
